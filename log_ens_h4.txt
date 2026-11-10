@@ -1,0 +1,70 @@
+  h4_1.5 ADAPT-VQE seed 1: 24s
+  h4_1.5 ADAPT-VQE seed 0: 25s
+  h4_1.5 ADAPT-VQE seed 2: 36s
+  h4_1.5 ADAPT-VQE seed 3: 37s
+  h4_1.5 ADAPT-VQE seed 5: 32s
+  h4_1.5 ADAPT-VQE seed 4: 39s
+  h4_1.5 ADAPT-VQE seed 6: 36s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 0: 66s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 1: 63s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 2: 52s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 3: 58s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 4: 56s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 5: 55s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 0: 13s
+  h4_1.5 ADAPT-VQE (UCCSD pool) seed 6: 55s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 1: 11s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 2: 12s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 3: 13s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 4: 12s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 5: 12s
+  h4_1.5 ADAPT-VQE (qeb pool) seed 6: 10s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 0: 8s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 1: 8s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 2: 11s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 3: 9s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 4: 8s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 5: 10s
+  h4_1.5 TETRIS-ADAPT-VQE (qeb pool) seed 6: 9s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 1: 18s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 0: 21s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 3: 20s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 2: 20s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 5: 18s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 4: 20s
+  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool) seed 6: 16s
+  h4_2.0 ADAPT-VQE seed 0: 23s
+  h4_2.0 ADAPT-VQE seed 1: 25s
+  h4_2.0 ADAPT-VQE seed 2: 23s
+  h4_2.0 ADAPT-VQE seed 3: 28s
+  h4_2.0 ADAPT-VQE seed 4: 26s
+  h4_2.0 ADAPT-VQE seed 5: 24s
+  h4_2.0 ADAPT-VQE seed 6: 24s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 0: 18s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 1: 19s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 2: 18s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 3: 17s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 4: 21s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 5: 17s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 0: 12s
+  h4_2.0 ADAPT-VQE (UCCSD pool) seed 6: 19s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 1: 14s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 2: 14s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 3: 17s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 4: 11s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 5: 13s
+  h4_2.0 ADAPT-VQE (qeb pool) seed 6: 15s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 0: 10s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 1: 8s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 2: 8s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 3: 9s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 4: 9s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 5: 11s
+  h4_2.0 TETRIS-ADAPT-VQE (qeb pool) seed 6: 9s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 0: 10s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 1: 9s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 2: 10s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 3: 10s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 4: 10s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 5: 10s
+  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool) seed 6: 10s

@@ -1,0 +1,9 @@
+  mfim2d_3x3 TETRIS-ADAPT-VQE (qubit pool): 150 ops, 188s
+  mfim2d_3x3 ADAPT-VQE (qubit pool): 150 ops, 246s
+  mfim2d_3x3 AVQITE (qubit pool): 150 ops, 130s
+  mfim_12 ADAPT-VQE (qubit pool): 96 ops, 382s
+  mfim_12 TETRIS-ADAPT-VQE (qubit pool): 101 ops, 337s
+  mfim_12 AVQITE (qubit pool): 150 ops, 106s
+  mfim2d_3x4 TETRIS-ADAPT-VQE (qubit pool): 150 ops, 158s
+  mfim2d_3x4 ADAPT-VQE (qubit pool): 150 ops, 456s
+  mfim2d_3x4 AVQITE (qubit pool): 150 ops, 244s

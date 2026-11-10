@@ -1,0 +1,9 @@
+  mfim2d_3x3 ADAPT-VQE seed 0: 125s
+  mfim2d_3x3 ADAPT-VQE seed 1: 146s
+  mfim2d_3x3 TETRIS-ADAPT-VQE (qubit pool) seed 0: 97s
+  mfim2d_3x3 ADAPT-VQE seed 2: 146s
+  mfim2d_3x3 TETRIS-ADAPT-VQE (qubit pool) seed 1: 97s
+  mfim2d_3x3 TETRIS-ADAPT-VQE (qubit pool) seed 2: 109s
+  mfim_12 TETRIS-ADAPT-VQE (qubit pool) seed 0: 185s
+  mfim_12 TETRIS-ADAPT-VQE (qubit pool) seed 1: 148s
+  mfim_12 TETRIS-ADAPT-VQE (qubit pool) seed 2: 176s

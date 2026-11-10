@@ -1,0 +1,57 @@
+  mfim2d_3x4 ADAPT-VQE seed 1: 1979s
+  mfim2d_3x4 ADAPT-VQE seed 0: 2158s
+  mfim2d_3x4 ADAPT-VQE seed 2: 2017s
+  mfim2d_3x4 ADAPT-VQE seed 3: 2312s
+  mfim2d_3x4 ADAPT-VQE seed 4: 1953s
+  tfim2d_3x4 ADAPT-VQE seed 0: 1526s
+50 runs to do
+  tfim2d_3x4 ADAPT-VQE seed 1: 1326s
+  tfim2d_3x4 ADAPT-VQE seed 2: 1541s
+  tfim2d_3x4 ADAPT-VQE seed 3: 1229s
+  mfim2d_3x3 ADAPT-VQE seed 3: 91s
+  mfim2d_3x3 ADAPT-VQE seed 4: 123s
+  tfim2d_3x3 ADAPT-VQE seed 0: 10s
+  tfim2d_3x3 ADAPT-VQE seed 1: 7s
+  tfim2d_3x3 ADAPT-VQE seed 2: 11s
+  tfim2d_3x3 ADAPT-VQE seed 3: 9s
+  tfim2d_3x3 ADAPT-VQE seed 4: 11s
+  hubbard_4 ADAPT-VQE seed 0: 0s
+  hubbard_4 ADAPT-VQE seed 1: 0s
+  hubbard_4 ADAPT-VQE seed 2: 0s
+  hubbard_4 ADAPT-VQE seed 3: 0s
+  hubbard_4 ADAPT-VQE seed 4: 0s
+  tfim2d_3x4 ADAPT-VQE seed 4: 1280s
+  mfim_12 ADAPT-VQE seed 0: 1298s
+  mfim_12 ADAPT-VQE seed 1: 1339s
+  mfim_12 ADAPT-VQE seed 3: 1431s
+  mfim_12 ADAPT-VQE seed 2: 1503s
+  tfim1d_12 ADAPT-VQE seed 0: 4s
+  tfim1d_12 ADAPT-VQE seed 1: 4s
+  tfim1d_12 ADAPT-VQE seed 2: 5s
+  tfim1d_12 ADAPT-VQE seed 3: 4s
+  tfim1d_12 ADAPT-VQE seed 4: 5s
+  mfim2d_3x4 ADAPT-VQE (qubit pool) seed 0: 230s
+  mfim2d_3x4 ADAPT-VQE (qubit pool) seed 1: 223s
+  mfim2d_3x4 ADAPT-VQE (qubit pool) seed 2: 225s
+  mfim2d_3x4 ADAPT-VQE (qubit pool) seed 3: 217s
+  mfim2d_3x4 ADAPT-VQE (qubit pool) seed 4: 215s
+  mfim2d_3x4 TETRIS-ADAPT-VQE (qubit pool) seed 0: 75s
+  mfim2d_3x4 TETRIS-ADAPT-VQE (qubit pool) seed 1: 73s
+  mfim2d_3x4 TETRIS-ADAPT-VQE (qubit pool) seed 2: 55s
+  mfim_12 ADAPT-VQE seed 4: 1417s
+  mfim2d_3x4 TETRIS-ADAPT-VQE (qubit pool) seed 3: 57s
+  mfim2d_3x4 TETRIS-ADAPT-VQE (qubit pool) seed 4: 73s
+  mfim_12 ADAPT-VQE (qubit pool) seed 0: 183s
+  mfim_12 ADAPT-VQE (qubit pool) seed 1: 182s
+  mfim_12 ADAPT-VQE (qubit pool) seed 2: 183s
+  mfim_12 ADAPT-VQE (qubit pool) seed 3: 179s
+  mfim_12 ADAPT-VQE (qubit pool) seed 4: 180s
+  mfim_12 TETRIS-ADAPT-VQE (qubit pool) seed 3: 225s
+  mfim_12 TETRIS-ADAPT-VQE (qubit pool) seed 4: 180s
+  mfim2d_3x3 ADAPT-VQE (qubit pool) seed 0: 117s
+  mfim2d_3x3 ADAPT-VQE (qubit pool) seed 1: 117s
+  mfim2d_3x3 ADAPT-VQE (qubit pool) seed 2: 118s
+  mfim2d_3x3 ADAPT-VQE (qubit pool) seed 3: 119s
+  mfim2d_3x3 ADAPT-VQE (qubit pool) seed 4: 117s
+  mfim2d_3x3 TETRIS-ADAPT-VQE (qubit pool) seed 3: 93s
+  mfim2d_3x3 TETRIS-ADAPT-VQE (qubit pool) seed 4: 91s

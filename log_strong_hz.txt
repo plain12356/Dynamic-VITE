@@ -1,0 +1,15 @@
+  mfim2d_3x3_hz0 TETRIS-ADAPT-VQE (qubit pool): 145 ops, 98s
+  mfim2d_3x3_hz0 AVQITE (qubit pool): 150 ops, 67s
+  mfim2d_3x3_hz0 ADAPT-VQE (qubit pool): 136 ops, 266s
+  mfim2d_3x3_hz0.1 ADAPT-VQE (qubit pool): 150 ops, 122s
+  mfim2d_3x3_hz0.1 TETRIS-ADAPT-VQE (qubit pool): 150 ops, 36s
+  mfim2d_3x3_hz0.1 AVQITE (qubit pool): 150 ops, 71s
+  mfim2d_3x3_hz0.25 TETRIS-ADAPT-VQE (qubit pool): 150 ops, 38s
+  mfim2d_3x3_hz0.25 ADAPT-VQE (qubit pool): 150 ops, 110s
+  mfim2d_3x3_hz0.25 AVQITE (qubit pool): 150 ops, 84s
+  mfim2d_3x3_hz0.75 ADAPT-VQE (qubit pool): 150 ops, 189s
+  mfim2d_3x3_hz0.75 TETRIS-ADAPT-VQE (qubit pool): 150 ops, 123s
+  mfim2d_3x3_hz0.75 AVQITE (qubit pool): 150 ops, 73s
+  mfim2d_3x3_hz1 TETRIS-ADAPT-VQE (qubit pool): 150 ops, 139s
+  mfim2d_3x3_hz1 ADAPT-VQE (qubit pool): 150 ops, 259s
+  mfim2d_3x3_hz1 AVQITE (qubit pool): 150 ops, 74s

@@ -1,0 +1,6 @@
+  h4_2.0 AVQITE (qeb pool, L2_cut=0.001): 52 ops, 242s
+  h4_2.0 AVQITE (qeb pool, L2_cut=0.0005): 89 ops, 660s
+  h4_2.0 AVQITE (qeb pool, L2_cut=0.0001): 150 ops, 1652s
+  h4_1.5 AVQITE (qeb pool, L2_cut=0.001): 93 ops, 664s
+  h4_1.5 AVQITE (qeb pool, L2_cut=0.0005): 21 ops, 47s
+  h4_1.5 AVQITE (qeb pool, L2_cut=0.0001): 150 ops, 1807s
