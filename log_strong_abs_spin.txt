@@ -1,9 +1,0 @@
-  mfim2d_3x3 AVQITE (qubit pool, L2_cut=0.1): 106 ops, 41s
-  mfim2d_3x3 AVQITE (qubit pool, L2_cut=0.01): 150 ops, 86s
-  mfim2d_3x3 AVQITE (qubit pool, L2_cut=0.001): 150 ops, 88s
-  mfim_12 AVQITE (qubit pool, L2_cut=0.1): 43 ops, 8s
-  mfim_12 AVQITE (qubit pool, L2_cut=0.01): 134 ops, 27s
-  mfim_12 AVQITE (qubit pool, L2_cut=0.001): 150 ops, 37s
-  mfim2d_3x4 AVQITE (qubit pool, L2_cut=0.1): 150 ops, 164s
-  mfim2d_3x4 AVQITE (qubit pool, L2_cut=0.01): 150 ops, 166s
-  mfim2d_3x4 AVQITE (qubit pool, L2_cut=0.001): 150 ops, 167s

@@ -1,8 +1,0 @@
-  h4_2.0 TETRIS-ADAPT-VQE (qeb pool): 20 ops, 25s
-  h4_2.0 ADAPT-VQE (qeb pool): 18 ops, 26s
-  h4_2.0 TETRIS-ADAPT-VQE (uccsd pool): 19 ops, 23s
-  h4_1.5 ADAPT-VQE (qeb pool): 18 ops, 21s
-  h4_2.0 AVQITE (qeb pool): 21 ops, 43s
-  h4_1.5 TETRIS-ADAPT-VQE (qeb pool): 18 ops, 24s
-  h4_1.5 TETRIS-ADAPT-VQE (uccsd pool): 22 ops, 46s
-  h4_1.5 AVQITE (qeb pool): 150 ops, 1602s
