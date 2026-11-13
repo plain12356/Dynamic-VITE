@@ -52,7 +52,6 @@ Models: 1D — critical transverse-field Ising ring (N = 6-16), non-integrable m
 | `scripts/run_all.sh` | Runs everything and makes the figures |
 | `scripts/make_figures.py` | Builds `paper/figures/*.pdf`, `results/summary.csv`, `results/table_cost.tex` and other CSVs |
 | `tests/` | Correctness tests (41) |
-| `paper/` | REVTeX source, figures and compiled PDF |
 
 ## Reproduce
 
